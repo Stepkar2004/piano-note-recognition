@@ -4,7 +4,7 @@ This project is a real-time piano note recognition application designed to help 
 
 ## Features
 
-- **Sheet Music Display**: Loads and renders sheet music from MusicXML (.mxl, .xml) files.
+- **Sheet Music Display**: Loads and renders sheet music from MusicXML files.
 - **Real-time Note Recognition**: Listens to your piano playing through a microphone and identifies the notes being played.
 - **Two Recognition Modes**:
     - **Single Note Mode**: For passages with individual notes, the application listens for one note at a time.
